@@ -95,32 +95,32 @@
 	  width: 20px;
 	  height: 20px;
 	  /*background-color: #A9A9A9;*/
-	  background-image: url('icon-adm.png');
+	  background-image: url('https://saycorannel.github.io/resources/icon-adm.png');
 	  background-size: 100%;
 	  border-radius: 50%;
 	  z-index: 1;
 	}
 	.timeline ul li:nth-child(2)::before {
-       background-image: url('icon-reg.png');
+       background-image: url('https://saycorannel.github.io/resources/icon-reg.png');
 	}
 	.timeline ul li:nth-child(3)::before {
-       background-image: url('icon-fin.png');
+       background-image: url('https://saycorannel.github.io/resources/icon-fin.png');
 	}
 	.timeline ul li:nth-child(4)::before {
-       background-image: url('icon-mis.png');
+       background-image: url('https://saycorannel.github.io/resources/icon-mis.png');
 	}
 	
 	.timeline ul li.active:nth-child(1)::before {
-      background-image: url('icon-adm-active.png');
+      background-image: url('https://saycorannel.github.io/resources/icon-adm-active.png');
 	}
 	.timeline ul li.active:nth-child(2)::before {
-      background-image: url('icon-reg-active.png');
+      background-image: url('https://saycorannel.github.io/resources/icon-reg-active.png');
 	}
 	.timeline ul li.active:nth-child(3)::before {
-      background-image: url('icon-fin-active.png');
+      background-image: url('https://saycorannel.github.io/resources/icon-fin-active.png');
 	}
 	.timeline ul li.active:nth-child(4)::before {
-      background-image: url('icon-mis-active.png');
+      background-image: url('https://saycorannel.github.io/resources/icon-mis-active.png');
 	}
 	.timeline li:hover:not(.active)::before {
       background-color: #C2D2E7; /* blue gray */
@@ -176,7 +176,7 @@
 
     .header {
       background-color: #670000;
-	  background-image: url('banner.jpg');
+	  background-image: url('https://saycorannel.github.io/resources/banner.jpg');
 	  background-repeat: no-repeat;
       color: #fff;
       padding: 1rem;
