@@ -327,10 +327,12 @@
 		color: #555555;
 		text-align: center;
 	}
+
 	tr td:last-child {
 	  width: 100px;
 	  padding: 0 25px;
 	}
+
     #pagination,
     .pagination {
       margin-top: 10px;
