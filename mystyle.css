@@ -329,8 +329,8 @@
 	}
 
 	tr td:last-child {
-	  width: 100px;
-	  padding: 0 25px;
+	  width: 150px;
+	  padding: 0 15px;
 	}
 
     #pagination,
