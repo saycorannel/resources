@@ -328,7 +328,8 @@
 		text-align: center;
 	}
 	tr td:last-child {
-	  width: 150px; /* or any width you want */
+	  width: 100px;
+	  padding: 0 25px;
 	}
     #pagination,
     .pagination {
