@@ -326,7 +326,9 @@
 		color: #555555;
 		text-align: center;
 	}
-	
+	tr td:last-child {
+	  width: 150px; /* or any width you want */
+	}
     #pagination,
     .pagination {
       margin-top: 10px;
