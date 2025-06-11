@@ -282,6 +282,14 @@
 		text-align: center;
 	}
 
+	tr td:nth-child(2),
+	tr td:nth-child(4),
+	tr td:nth-child(5),
+	tr td:nth-child(6),
+	tr td:nth-child(7) {
+	   width: 15%;
+	}
+
 	td span.inprogress,
 	td span.complete {
 		padding: 2px;
@@ -313,7 +321,7 @@
 	tr.ok td,
 	tr.nonresident td {
 		background-color: #F5F5F5;
-		color: #222222;
+		color: #000080;
 	}
 	
 	tr.ok:hover td,
