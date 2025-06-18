@@ -290,7 +290,7 @@
 
 	tr td:last-child {
 		padding: 0px;
-		width: 80px;
+		width: 80px!important;
 		text-align: center;
 	}
 
