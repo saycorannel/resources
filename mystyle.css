@@ -276,14 +276,8 @@
 	  color: #a9a9a9;
 	}
 
-	tr td:last-child {
-		padding: 0px;
-		width: 80px;
-		text-align: center;
-	}
-
 	tr td {
-	   width: 10%;
+	   width: 9%;
 	}
 
 	tr td:nth-child(1) {
@@ -292,6 +286,12 @@
 
 	tr td:nth-child(3) {
 	   width: 20%;
+	}
+
+	tr td:last-child {
+		padding: 0px;
+		width: 80px;
+		text-align: center;
 	}
 
 	td span.inprogress,
