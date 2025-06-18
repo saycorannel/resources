@@ -213,6 +213,7 @@
     }
 
     .controls input[type="search"],
+    .controls input[type="date"],
     .controls select {
       padding: 6px;
 	  border-radius: 3px;
