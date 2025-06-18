@@ -286,6 +286,14 @@
 	   width: 10%;
 	}
 
+	tr td:nth-child(1) {
+	   width: 2%;
+	}
+
+	tr td:nth-child(2) {
+	   width: 15%;
+	}
+
 	td span.inprogress,
 	td span.complete {
 		padding: 2px;
