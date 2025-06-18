@@ -214,6 +214,7 @@
 
     .controls input[type="search"],
     .controls input[type="date"],
+    .controls button,
     .controls select {
       padding: 6px;
 	  border-radius: 3px;
