@@ -313,8 +313,8 @@
 	
 	tr.ok td,
 	tr.nonresident td {
-		color: #9c5700;
-    		background-color: #ffeb9c;
+		
+    		background-color: #fff8d0;
 	}
 	
 	tr.ok:hover td,
