@@ -311,10 +311,11 @@
 	   font-style: italic;
 	}
 	
-	tr.ok td,
+	tr.ok td {
+		background-color: #D3D3D3;
+	}
 	tr.nonresident td {
-		
-    		background-color: #fff8d0;
+    		background-color: #FFFDD0;
 	}
 	
 	tr.ok:hover td,
